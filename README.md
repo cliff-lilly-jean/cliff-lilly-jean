@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cliff! <br/><a href="https://github.com/cliff-lilly-jean/">Frontend Developer</a>, <a href="https://www.linkedin.com/in/cliff-lilly-jean/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Cliff! <br/><a href="https://github.com/cliff-lilly-jean/">Developer</a>, <a href="https://www.linkedin.com/in/cliff-lilly-jean/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

@@ -6,6 +6,9 @@
 
   * Built a cloud-based Security Operations Center lab using Azure, Microsoft Sentinel, and Log Analytics Workspace. Created and configured a Windows Virtual Machine, intentionally allowed inbound traffic for security testing, collected Windows Security Event logs, analyzed failed login attempts using Event ID 4625, enriched attacker IP data with GeoIP information, and built a workbook map to visualize attacker locations.
 
+* <b>[Nessus Vulnerability Management Lab](https://github.com/cliff-lilly-jean/nessus-vulnerability-management-lab)</b>
+
+  * Built a vulnerability management lab using VirtualBox, Windows 11, and Nessus Essentials. Configured a Windows 11 virtual machine, verified host-to-VM connectivity, completed an unauthenticated vulnerability scan, enabled remote access settings for credentialed scanning, reviewed discovered vulnerabilities, installed outdated software to observe additional findings, and applied remediations to reduce vulnerabilities.
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -17,17 +20,3 @@
 [instagram]: https://www.instagram.com/clidariusloveall/
 [linkedin]: https://www.linkedin.com/in/cliff-lilly-jean/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
